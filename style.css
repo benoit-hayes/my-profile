@@ -1,0 +1,101 @@
+
+body  {
+  text-align: center;
+  background-color: #BEE3DB;
+  border-radius:80%;
+
+}
+
+button{
+
+
+}
+
+ul{
+  list-style: none;
+  padding: 0px
+}
+
+a{
+  padding: 30px
+  height: 30px;
+  text-decoration: none;
+  color: grey;
+}
+
+i{
+
+}
+
+
+a:hover{
+  color: #BEE3DB;
+}
+
+h1 {
+  color: rgb(0,0,0);
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+  font-style: italic;
+}
+img {
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    object-fit: scale-down;
+
+
+}
+
+
+
+}
+h2 {
+  text-align: center;
+   font-family: 'Roboto', sans-serif;
+   font-style: italic;
+
+}
+
+
+h3{
+
+   font-family: 'Roboto', sans-serif;
+   font-weight: bold;
+   font-style: italic;
+
+
+
+}
+
+h4{
+  font-family: 'Roboto', sans-serif;
+  font-style: italic;
+
+
+}
+p{
+   font-family: 'Roboto', sans-serif;
+}
+
+.container{
+   margin: 20px auto;
+   width: 700px;
+}
+
+
+
+
+.card-white {
+    box-shadow: 2px 5px 20px rgba(0,0,0.1);
+    border-radius: 4px;
+    background-color: white;
+    padding: 20px 10px;
+    margin: 20px 0px;
+ }
+
+.icons-inligne i {
+  font-size: 40px;
+  margin-top: 10px;
+}
